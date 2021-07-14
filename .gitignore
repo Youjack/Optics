@@ -1,0 +1,8 @@
+# MATLAB folder (this gitignore will be removed later)
+MATLAB
+Others
+
+.ipynb_checkpoints
+*.gif
+*.jpg
+*.cdf
