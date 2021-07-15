@@ -2,7 +2,9 @@
 MATLAB
 Others
 
+.vscode
 .ipynb_checkpoints
+
 *.gif
 *.jpg
 *.cdf
