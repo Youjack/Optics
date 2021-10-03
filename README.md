@@ -16,6 +16,11 @@ Optics 目前使用的科学计算语言包括了 Python，MATLAB，Julia，Wolf
 
 ## MATLAB
 
+文件夹 MATLAB 下的 `.m` 文件是用 MATLAB 编写的可视化材料。这些材料的介绍在下列知乎文章中
+* [使用matlab模拟单色平面波的反射、折射](https://zhuanlan.zhihu.com/p/415956404)
+* [使用Matlab描绘偏振光](https://zhuanlan.zhihu.com/p/350848159)
+* [偏振光可视化app](https://zhuanlan.zhihu.com/p/351004181)
+
 ## Julia
 
 [Julia](https://julialang.org/) 是一门新兴的科学计算语言，其目标是在科学计算领域成为 C/C++，FORTRAN，Python，MATLAB，R 的替代品，其特点是同时具有 Python 的易用性和 C 的速度。
@@ -27,3 +32,10 @@ Optics 目前使用的科学计算语言包括了 Python，MATLAB，Julia，Wolf
 Wolfram Language 是脱胎于 Mathematica 的符号计算语言。Mathematica 价格昂贵，但 Wolfram Research 已经推出了免费的 [Wolfram Engine](https://www.wolfram.com/engine/)。Wolfram Engine 可以使用 Wolfram Language 的所有功能，但缺少 Mathematica 的笔记本界面，但 Jupyter 和免费的 Wolfram Player 可以提供类似的功能。
 
 文件夹 Wolfram Language 下的 `.ipynb` 文件是在 Jupyter 里用 Wolfram Language 编写的可视化材料。要运行这些材料，需要安装 Wolfram Engine 和 [WolframLangugeForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter)。Jupyter 暂时不能为 Wolfram Language 提供如"拖动滑块改变参数"的交互功能，但这些材料运行后可以生成 `.cdf` 文件，这些文件提供了交互功能，可以用 Mathematica 或 Wolfram Player 打开。(GitHub 可以预览 `.ipynb` 文件，如果不想使用 Jupyter，可以在 GitHub 中查看代码)
+
+## 联系方式
+
+* QQ: 942699459
+* 知乎: <https://www.zhihu.com/people/youjacklin>
+* Optics 项目地址: <https://github.com/Youjack/Optics>
+* 旧的 Optics 项目地址: <https://github.com/Youjack/Optics-old>
